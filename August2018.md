@@ -23,3 +23,7 @@ Throughout August I have been learning Git, making regular commits to various pr
 - git init
 
 I have also contributed to some open source projects in the ZTM open source playground. ZTM is the course I am using to learn the basics of web development on Udemy.
+
+### Coding challenges
+
+After struggling to get to grips with codewars, somebody suggested Edabit, so I have started doing the JavaScript challenges there. I have created a repo documenting my progress which you can find [here](https://github.com/shan5742/codingchallenges)
