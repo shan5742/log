@@ -7,4 +7,4 @@ Roadmap coming soon...
 
 ## Structure
 
-This log will be broken up into different months where I will update the file with all of what I am leanring in the month. I will include links and resources where possible for anyone following along.
+This log will have a seperate update each day (assuming I get some studying in) barring the first post as I wanted a little more content ot get this started and catch up with current progress. I will then organise the repo into folders by month to keep things a little cleaner.
