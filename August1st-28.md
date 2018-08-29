@@ -1,5 +1,7 @@
 # August 2018
 
+The first entry for this repo will cover the majority of August. I wanted to start making a daily log of the things I am doing with regards to learning the various aspects of web development. However, I wanted to start with some content and figured an overview will suffice. From this point on I will update daily (assuming I managed to get some work done) in this log and then organise things into monthly folders as needed.
+
 ### FreeCodeCamp 
 
 I started my journey into webdevelopment at FreeCodeCamp where I completed the first certificate in responsive front end. This gave me a great overview of html, CSS and some very basic JavaScript and has been the foundation to my learning.
