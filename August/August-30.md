@@ -1,6 +1,6 @@
 # Aygust 30
 
-today ive worked more on design for a client site, creating logos and image manipulation.
+Today ive worked more on design for a client site, creating logos and image manipulation.
 
 ive completed a number of JavaScript challenges that i have put in my codingchallenges repo
 
