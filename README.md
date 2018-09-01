@@ -3,7 +3,22 @@ An active log of my learning. My current plan is to learn vanilla JS followed by
 
 ## Roadmap
 
-Roadmap coming soon...
+Below you will find what I plan on studying in the coming months, it is not in any particular order. I'll check off what is done, which doesn't mean I know everything, but does indicate what I am comfortable workign with.
+
+- ~~html~~
+- ~~CSS~~
+- JavaScript
+- ~~Version Control~~
+- ~~Package Manager~~
+- React
+- Redux
+- Sass
+- Node
+- ES6
+- SQL
+- MongoDB
+- GatsbyJS
+
 
 ## Structure
 
