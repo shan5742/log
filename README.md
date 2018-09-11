@@ -1,6 +1,8 @@
 # log
 An active log of my learning. My current plan is to learn vanilla JS followed by React and then move onto the backend, I will update this with a more complete roadmap in due course.
 
+As well as being a log, this will be a repo filled with programming notes which will be available to me when needed. This will be somewhat unstructured and more for personal use.
+
 ## Roadmap
 
 Below you will find what I plan on studying in the coming months, it is not in any particular order. I'll check off what is done, which doesn't mean I know everything, but does indicate what I am comfortable workign with.
