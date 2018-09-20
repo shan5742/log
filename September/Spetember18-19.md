@@ -76,3 +76,45 @@ HTTP Headers are property-value pairs that are separated by a colon. The example
 ###### The Date (or body)
 
 The data (sometimes called “body” or “message”) contains information you want to be sent to the server. This option is only used with POST, PUT, PATCH or DELETE requests.
+
+### What I Did 
+
+I started trying to access the API given to me using the fetch method, but I was having difficulty with the headers and getting a lot of CORS errors, after asking around a little I was told to check out Axios, which would help me.
+
+My original `fetch` was like this:
+
+```javascript
+  componentDidMount() {
+    fetch(
+      "https://27gmrimn45.execute-api.eu-west-2.amazonaws.com/demos/leighton-demo-api?x-api-key=zQo4PPqD862IwDIQRZub8gX4dqjA3aW2DDhI6UF4&TableName=products"
+    )
+      .then(res => res.json())
+      .then(json => {
+        this.state({
+          isLoaded: true,
+          Items: json
+        });
+      });
+  }
+
+  render() {
+```
+I simply needed to convert the `fetch` into Axios format, which you can see below:
+
+```javascript
+axios({
+    method: 'get',
+    url: 'https://27gmrimn45.execute-api.eu-west-2.amazonaws.com/demos/leighton-demo-api',
+    responseType: 'json',
+    headers: {'X-Api-Key': 'zQo4PPqD862IwDIQRZub8gX4dqjA3aW2DDhI6UF4'},
+    params: {'TableName': 'products'}
+}).then(response => {
+    this.state({
+        isLoaded: true,
+        Items: response.data
+    });
+});
+```
+
+As you can see this really simplifies the process visually, everything is very simple to understand and of course I wasn't getting the same errors as before.
+
