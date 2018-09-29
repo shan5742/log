@@ -7,3 +7,5 @@
 - Installed various atom extensions and packages to improve workflow
 
 - **Networking** - I have been doing lots of networking with people new and old, I am a firm beliver in ones network being the most important aspect of job hunting, so I try to take regular time to keep up to date with my contacts and make new ones.
+
+- Configuring fish shell, omf and bobthefish to make terminal use easier
