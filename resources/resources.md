@@ -11,3 +11,5 @@ This will act as a place for me to put my bookmarks and links of things which I 
 [Free Graphics](https://lukaszadam.com/)
 [Tachyons Templates](https://www.tachyonstemplates.com/)
 [Postman API](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop/related)
+[DevHints CheatSheets](https://devhints.io/)
+[FirstTimers Open Source Contirbutions](https://www.firsttimersonly.com/)
