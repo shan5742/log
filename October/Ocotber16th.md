@@ -14,3 +14,5 @@ Now time to play around and familiarise myself with laravel. Will write a blog p
 ---
 
 Also, looking into bash scripts and will make a script to install LAMP on Linux, I have already installed LAMP stack on 3 seperate occasions and it is becoming tedious, so having a script for this makes sense and is a good skill to have.
+
+Decided to create a scripts repo to store everything I'm doing, hopefully lobger term can have a set of useful scripts to automate things such as github commits, creating new project folders and more. Repo is [here](https://github.com/shan5742/scripts)
