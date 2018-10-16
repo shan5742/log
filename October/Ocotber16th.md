@@ -9,3 +9,8 @@ Switch in focus after studying job market. PHP and laravel are in demand for job
 - installed laravel
 
 Now time to play around and familiarise myself with laravel. Will write a blog post later with more of my thoughts.
+
+
+---
+
+Also, looking into bash scripts and will make a script to install LAMP on Linux, I have already installed LAMP stack on 3 seperate occasions and it is becoming tedious, so having a script for this makes sense and is a good skill to have.
