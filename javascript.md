@@ -1,6 +1,10 @@
-# September 11th
+# JavaScript
 
-Today I have been working on the JavaScript 30 course from Wes Bos, so far the course has been an amazing resource for learning vanilla JS. Most of the other projects from the course can be found as seperate repo's in my [GitHub profile](https://github.com/shan5742/), but I figured this one could go in the log because it is not really about building anything and more about working with various array tools we have available to us in JS. Array Cardio helps improve our understanding of:
+Javascript has been my core focus since begin my journey into programming, I have a [repo for coding challenges](https://github.com/shan5742/codingchallenges) another following my progress through [eloquentJS](https://github.com/shan5742/eloquent-js) and I am thinking about starting another logging my progress through Wes Bos' JavaScript 30 course, but for now I think I will just leave one example of from the course below, to give an idea of the type of things I will be learning from it.
+
+### JavaScript 30 
+
+So far the course has been an amazing resource for learning vanilla JS. Most of the other projects from the course can be found as separate repo's in my [GitHub profile](https://github.com/shan5742/), but I figured this one could go in the log because it is not really about building anything and more about working with various array tools we have available to us in JS. Array Cardio helps improve our understanding of:
 
 - **Filter**
 - **Map**
