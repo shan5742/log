@@ -15,4 +15,3 @@ The agency I am working for is using a custom Divi theme, so the main scope for 
 Some of the not so obvious skills that come from freelancing have been learning to manage my time, which is essential if I want future flexible working hours and possible full remote positions.
 
 Furthermore dealing with invoicing has been great and leaves freelancing as a viable career choice now.
-
