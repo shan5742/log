@@ -72,4 +72,21 @@ I'm now comfortable with creating components quickly and the basics of making si
 
 ## The React Router
 
-I have created a simple mock site to get used to using the React router, code is [here]()
+I have created a simple mock site to get used to using the React router, code is [here](https://github.com/shan5742/react-router.git)
+
+#### react-router-dom
+
+To utilise the React router we muct first install it via npm, simply `$ npm install react-router-dom`, which we then need to import into our main App component.
+
+The react router is perfect for having multiple pages without the need to reload and still keeping the app a single page app, which improves speed and performance.
+
+#### Programmatic Redirects
+
+Another feature of the react router is programmatic redirects, which allows us to force the user to a certain page on the site. To practice this I used a simple `setTimeout` function to force the browser to display the about page after a set period of time (3 secs), please see the below example.
+
+```js
+onst Navbar = props => {
+  setTimeout(() => {
+    props.history.push("./about");
+  }, 3000);
+```
