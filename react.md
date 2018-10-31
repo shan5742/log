@@ -80,7 +80,7 @@ To utilise the React router we muct first install it via npm, simply `$ npm inst
 
 The react router is perfect for having multiple pages without the need to reload and still keeping the app a single page app, which improves speed and performance.
 
-#### Programmatic Redirects
+#### Programmatic Redirects & Higher Order Components
 
 Another feature of the react router is programmatic redirects, which allows us to force the user to a certain page on the site. To practice this I used a simple `setTimeout` function to force the browser to display the about page after a set period of time (3 secs), please see the below example.
 
@@ -90,3 +90,5 @@ onst Navbar = props => {
     props.history.push("./about");
   }, 3000);
 ```
+
+To use the function above I needed to use a higher order component, which was `withRouter`, a higher order component basically adds functionality and 'super powers' if you like to a regular component.
