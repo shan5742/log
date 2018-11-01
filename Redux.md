@@ -81,3 +81,30 @@ import { combineReducers, createStore } from 'redux'
 const reducer = combineReducers({ visibilityFilter, todos })
 const store = createStore(reducer)
 ```
+
+### Action Creators
+
+Action creators are simply functions, when we call them they create an action for us, the reason for using them is basically it makes our code more re-usable. It saves us re-typing out actions, we can simply just call a function.
+
+Previously we would write our actions inside of components like this:
+
+```js
+const mapDispatchToProps = dispatch => {
+  return {
+    deletePost: id => {
+      dispatch({ type: "DELETE_POST", id: id });
+    }
+  };
+};
+```
+
+Instead an action creator can be made and stored in an `actions` folder in our app and then we can simply call the function in any component. The action creator is very similar to the above - naturally:
+
+```js
+export const deletePost = id => {
+  return {
+    type: "DELETE_POST",
+    id
+  };
+};
+```
