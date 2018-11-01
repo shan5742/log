@@ -34,3 +34,5 @@ const rootReducer = (state = initState, action) => {
 
 export default rootReducer;
 ```
+
+I started by creating some dummy data inside the `initState` array. From there I created a funtion to get the data from the Redux _store_ and inject it into the `Home` component of the app.
